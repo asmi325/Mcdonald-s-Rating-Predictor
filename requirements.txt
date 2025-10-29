@@ -1,5 +1,6 @@
 streamlit
 pandas
+--only-binary=:all:
 lightgbm
 numpy
 scikit-learn
